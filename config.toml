@@ -1,0 +1,6 @@
+baseURL = "http://perso.telecom-paris.fr/nicherel"
+languageCode = "en-us"
+title = "Nicolas Cherel"
+theme = "researcher"
+
+
