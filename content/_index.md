@@ -23,7 +23,7 @@ Email: [surname]@telecom-paris.fr
 
 **A Patch-Based Algorithm for Diverse and High Fidelity Single Image Generation** - 2022 (*ICIP*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
-Paper coming soon, Code coming soon
+[[Paper]](https://ieeexplore.ieee.org/document/9897913) [[Code]](https://github.com/ncherel/psin)
 
 **Assessment of an AI aid in detection of adult appendicular skeletal fractures by emergency physicians and radiologists: a multicenter cross-sectional diagnostic study** - 2021 (*Radiology*)  
 L. Duron, A. Ducarouge, A. Gillibert, J. Lainé, C. Allouche, <ins>N. Cherel</ins>, Z. Zhang, N. Nitche, E. Lacave, A. Pourchot, A. Felter, L. Lassalle, N.-E. Regnard, A. Feydy  
