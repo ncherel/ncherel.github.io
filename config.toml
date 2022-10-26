@@ -1,10 +1,15 @@
-baseURL = "http://perso.telecom-paris.fr/nicherel"
+baseURL = "http://perso.telecom-paristech.fr/nicherel"
 languageCode = "en-us"
 title = "Nicolas Cherel"
 theme = "researcher"
+
+disableKinds = ["taxonomy", "term"]
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
+[params]
+  author = "Nicolas Cherel"
+  description = "Personal website of Nicolas Cherel"
