@@ -13,7 +13,7 @@ Email: [surname]@telecom-paris.fr
 
 ## News
 
-- 02/23 - Talk about Patches at the Imaging In Paris Seminar
+- 02/23 - Talk about Patches at the Imaging In Paris Seminar - [[Slides]](09_03_2023_Patches_and_attention_for_image_editing.pdf)
 - 02/23 - Talk about Patches at GREYC lab - [[Slides]](02_03_2023_Patches_and_attention_for_image_editing.pdf)
 - 06/22 - I joined Adobe for a summer internship
 
