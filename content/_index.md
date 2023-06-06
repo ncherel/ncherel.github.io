@@ -13,6 +13,7 @@ Email: [surname]@telecom-paris.fr
 
 ## News
 
+- 06/23 - Talk about diffusion models at the EIDOS lab from Torino - [[Slides]](06_06_2023_diffusion_models.pdf)
 - 02/23 - Talk about Patches at the Imaging In Paris Seminar - [[Slides]](09_02_2023_Patches_and_attention_for_image_editing.pdf)
 - 02/23 - Talk about Patches at GREYC lab - [[Slides]](02_02_2023_Patches_and_attention_for_image_editing.pdf)
 - 06/22 - I joined Adobe for a summer internship

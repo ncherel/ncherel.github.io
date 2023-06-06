@@ -13,3 +13,7 @@ disableKinds = ["taxonomy", "term"]
 [params]
   author = "Nicolas Cherel"
   description = "Personal website of Nicolas Cherel"
+
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Arial"
+    fontSize = 12
