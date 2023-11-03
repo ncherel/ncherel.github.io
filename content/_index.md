@@ -19,9 +19,13 @@ Email: [surname]@telecom-paris.fr
 
 ## Publications
 
-**Patch-Based Stochastic Attention for Image Editing** - 2022 (preprint)  
+**Infusion: Internal Diffusion for Video Inpainting** - 2023 (*Preprint*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
-[[Paper]](https://arxiv.org/abs/2202.03163) [[Code]](https://github.com/ncherel/psal)
+[[Preprint]](https://arxiv.org/abs/2311.01090)
+
+**Patch-Based Stochastic Attention for Image Editing** - 2023 (*CVIU*)  
+<ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002461) [[Preprint]](https://arxiv.org/abs/2202.03163) [[Code]](https://github.com/ncherel/psal)
 
 **A Patch-Based Algorithm for Diverse and High Fidelity Single Image Generation** - 2022 (*ICIP*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
