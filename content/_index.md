@@ -13,6 +13,7 @@ Email: [surname]@telecom-paris.fr
 
 ## News
 
+- 06/23 - Talk about diffusion models at EIDOSLAB from Torino - [[Slides]](06_06_2023_diffusion_models.pdf)
 - 02/23 - Talk about Patches at the Imaging In Paris Seminar - [[Slides]](09_02_2023_Patches_and_attention_for_image_editing.pdf)
 - 02/23 - Talk about Patches at GREYC lab - [[Slides]](02_02_2023_Patches_and_attention_for_image_editing.pdf)
 - 06/22 - I joined Adobe for a summer internship
@@ -29,7 +30,7 @@ Email: [surname]@telecom-paris.fr
 
 **A Patch-Based Algorithm for Diverse and High Fidelity Single Image Generation** - 2022 (*ICIP*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
-[[Project]](https://psin.telecom-paris.fr) [[Paper]](https://ieeexplore.ieee.org/document/9897913) [[Code]](https://github.com/ncherel/psin)
+[[Project]](https://psin.telecom-paris.fr) [[Preprint]](https://hal.science/hal-03822204/) [[Paper]](https://ieeexplore.ieee.org/document/9897913) [[Code]](https://github.com/ncherel/psin)
 
 **Assessment of an AI aid in detection of adult appendicular skeletal fractures by emergency physicians and radiologists: a multicenter cross-sectional diagnostic study** - 2021 (*Radiology*)  
 L. Duron, A. Ducarouge, A. Gillibert, J. Lainé, C. Allouche, <ins>N. Cherel</ins>, Z. Zhang, N. Nitche, E. Lacave, A. Pourchot, A. Felter, L. Lassalle, N.-E. Regnard, A. Feydy  
