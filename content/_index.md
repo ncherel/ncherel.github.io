@@ -14,6 +14,7 @@ Email: [surname]@telecom-paris.fr
 
 ## News
 
+- 03/24 - Thesis successfully defended! - [[Manuscript]](https://partage.imt.fr/index.php/s/T8SGtkaBxQrrZXe) - [[Slides]](https://partage.imt.fr/index.php/s/92byZy8PrMxMGEX)
 - 02/24 - Manucript submitted, PhD defense in March
 - 06/23 - Talk about diffusion models at EIDOSLAB from Torino - [[Slides]](06_06_2023_diffusion_models.pdf)
 - 02/23 - Talk about Patches at the Imaging In Paris Seminar - [[Slides]](09_02_2023_Patches_and_attention_for_image_editing.pdf)
