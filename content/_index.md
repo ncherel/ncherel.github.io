@@ -25,7 +25,7 @@ Email: [surname]@telecom-paris.fr
 
 **Infusion: Internal Diffusion for Video Inpainting** - 2023 (*Preprint*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
-[[Preprint]](https://arxiv.org/abs/2311.01090)
+[[Preprint]](https://arxiv.org/abs/2311.01090) [[Website]](https://infusion.telecom-paris.fr)
 
 **Patch-Based Stochastic Attention for Image Editing** - 2023 (*CVIU*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
