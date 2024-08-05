@@ -28,6 +28,10 @@ Email: [surname]@telecom-paris.fr
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
 [[Preprint]](https://arxiv.org/abs/2311.01090) [[Website]](https://infusion.telecom-paris.fr)
 
+**Diffusion-based image inpainting with internal learning** - 2024 (*EUSIPCO*)  
+<ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
+[[Preprint]](https://arxiv.org/abs/2406.04206)
+
 **Patch-Based Stochastic Attention for Image Editing** - 2023 (*CVIU*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002461) [[Preprint]](https://arxiv.org/abs/2202.03163) [[Code]](https://github.com/ncherel/psal)
