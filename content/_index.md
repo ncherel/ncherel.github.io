@@ -4,16 +4,17 @@ title = "Nicolas Cherel"
 
 ## About Me
 
-I am a 3rd year PhD student at Télécom Paris (Institut Polytechnique de Paris) under the supervision of Alasdair Newson, Yann Gousseau, and Andrés Almansa. My research interests are video / image editing, data generation, deep learning, and computer vision.
+I have just completed a my PhD at Télécom Paris (Institut Polytechnique de Paris) under the supervision of Alasdair Newson, Yann Gousseau, and Andrés Almansa. My research interests are video / image editing, data generation, deep learning, and computer vision.
 Before that, I worked at [Gleamer](http://www.gleamer.ai) on bone fracture detection in x-ray images.
 I graduated from Télécom Paris, and obtained the "Mathématiques, Vision, Apprentissage" (MVA) Master's degree from ENS Paris-Saclay. 
 
-Email: [surname]@telecom-paris.fr  
+Email: [firstname].[lastname]@outlook.com  
 [GitHub](https://github.com/ncherel)
 [Resume](resume.pdf)
 
 ## News
 
+- 08/24 - I will present our work on internal learning for image inpainting at EUSIPCO 2024 in Lyon
 - 04/24 - Talk about diffusion models at the Imaging In Paris Seminar [[Slides]](https://partage.imt.fr/index.php/s/YKbHp64Tnye5Erc)
 - 03/24 - Thesis successfully defended! - [[Manuscript]](https://partage.imt.fr/index.php/s/T8SGtkaBxQrrZXe) - [[Slides]](https://partage.imt.fr/index.php/s/92byZy8PrMxMGEX)
 - 02/24 - Manucript submitted, PhD defense in March
