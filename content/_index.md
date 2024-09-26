@@ -4,7 +4,8 @@ title = "Nicolas Cherel"
 
 ## About Me
 
-I have just completed a my PhD at Télécom Paris (Institut Polytechnique de Paris) under the supervision of Alasdair Newson, Yann Gousseau, and Andrés Almansa. My research interests are video / image editing, data generation, deep learning, and computer vision.
+I'm now working at Disney Research in Zurich.
+I completed my PhD at Télécom Paris (Institut Polytechnique de Paris) under the supervision of Alasdair Newson, Yann Gousseau, and Andrés Almansa. My research interests are video / image editing, data generation, deep learning, and computer vision.
 Before that, I worked at [Gleamer](http://www.gleamer.ai) on bone fracture detection in x-ray images.
 I graduated from Télécom Paris, and obtained the "Mathématiques, Vision, Apprentissage" (MVA) Master's degree from ENS Paris-Saclay. 
 
@@ -14,6 +15,7 @@ Email: [firstname].[lastname]@outlook.com
 
 ## News
 
+- 10/24 - Joining Disney Research|Studios in Zurich for a short research stay
 - 08/24 - I will present our work on internal learning for image inpainting at EUSIPCO 2024 in Lyon
 - 04/24 - Talk about diffusion models at the Imaging In Paris Seminar [[Slides]](https://partage.imt.fr/index.php/s/YKbHp64Tnye5Erc)
 - 03/24 - Thesis successfully defended! - [[Manuscript]](https://partage.imt.fr/index.php/s/T8SGtkaBxQrrZXe) - [[Slides]](https://partage.imt.fr/index.php/s/92byZy8PrMxMGEX)
