@@ -33,7 +33,7 @@ Email: [firstname].[lastname]@outlook.com
 
 **Diffusion-based image inpainting with internal learning** - 2024 (*EUSIPCO*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
-[[Preprint]](https://arxiv.org/abs/2406.04206)
+[[Preprint]](https://arxiv.org/abs/2406.04206) [[Code]](https://github.com/ncherel/inpaint-diff-mat)
 
 **Patch-Based Stochastic Attention for Image Editing** - 2023 (*CVIU*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
