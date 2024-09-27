@@ -2,6 +2,12 @@
 title = "Nicolas Cherel"
 +++
 
+<style>
+#content img {
+	margin: 0;
+}
+</style>
+
 ## About Me
 
 I'm now working at Disney Research in Zurich.
@@ -27,21 +33,33 @@ Email: [firstname].[lastname]@outlook.com
 
 ## Publications
 
+<div style="display: flow-root">
+{{% figure class="float-left" src="video_inpainting.jpg" width="90" %}}
 **Infusion: Internal Diffusion for Video Inpainting** - 2023 (*Preprint*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
 [[Preprint]](https://arxiv.org/abs/2311.01090) [[Website]](https://infusion.telecom-paris.fr)
+</div>
 
+<div style="display: flow-root">
+{{% figure class="float-left"  src="inpainting.jpg" width="90" %}}
 **Diffusion-based image inpainting with internal learning** - 2024 (*EUSIPCO*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
 [[Preprint]](https://arxiv.org/abs/2406.04206) [[Code]](https://github.com/ncherel/inpaint-diff-mat)
+</div>
 
+<div style="display: flow-root">
+{{% figure class="float-left" src="psal.jpg" width="90" %}}
 **Patch-Based Stochastic Attention for Image Editing** - 2023 (*CVIU*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002461) [[Preprint]](https://arxiv.org/abs/2202.03163) [[Code]](https://github.com/ncherel/psal)
+</div>
 
+<div style="display: flow-root">
+{{% figure class="float-left" src="psin.jpg" width="90" %}}
 **A Patch-Based Algorithm for Diverse and High Fidelity Single Image Generation** - 2022 (*ICIP*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
 [[Project]](https://psin.telecom-paris.fr) [[Preprint]](https://hal.science/hal-03822204/) [[Paper]](https://ieeexplore.ieee.org/document/9897913) [[Code]](https://github.com/ncherel/psin)
+</div>
 
 **Assessment of an AI aid in detection of adult appendicular skeletal fractures by emergency physicians and radiologists: a multicenter cross-sectional diagnostic study** - 2021 (*Radiology*)  
 L. Duron, A. Ducarouge, A. Gillibert, J. Lainé, C. Allouche, <ins>N. Cherel</ins>, Z. Zhang, N. Nitche, E. Lacave, A. Pourchot, A. Felter, L. Lassalle, N.-E. Regnard, A. Feydy  
