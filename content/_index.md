@@ -66,13 +66,6 @@ L. Duron, A. Ducarouge, A. Gillibert, J. Lainé, C. Allouche, <ins>N. Cherel</in
 [[Paper]](https://pubs.rsna.org/doi/full/10.1148/radiol.2021203886)
 
 
-## Teaching
-
-- IMA 201
-- Deep Learning I (IA306)
-- Introduction to Computer Vision
-- Introduction à l'imagerie numérique
-
 
 
 
