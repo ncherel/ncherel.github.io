@@ -24,10 +24,10 @@ Email: [firstname].[lastname]@outlook.com
 - 10/24 - Joining Disney Research|Studios in Zurich for a short research stay
 - 08/24 - I will present our work on internal learning for image inpainting at EUSIPCO 2024 in Lyon
 - 04/24 - Talk about diffusion models at the Imaging In Paris Seminar [[Slides]](https://partage.imt.fr/index.php/s/YKbHp64Tnye5Erc)
-- 03/24 - Thesis successfully defended! - [[Manuscript]](https://partage.imt.fr/index.php/s/T8SGtkaBxQrrZXe) - [[Slides]](https://partage.imt.fr/index.php/s/92byZy8PrMxMGEX)
+- 03/24 - Thesis successfully defended! - [[Manuscript]](https://theses.hal.science/tel-04573417) - [[Slides]](https://partage.imt.fr/index.php/s/92byZy8PrMxMGEX)
 - 02/24 - Manucript submitted, PhD defense in March
 - 06/23 - Talk about diffusion models at EIDOSLAB from Torino - [[Slides]](06_06_2023_diffusion_models.pdf)
-- 02/23 - Talk about Patches at the Imaging In Paris Seminar - [[Slides]](09_02_2023_Patches_and_attention_for_image_editing.pdf)
+- 02/23 - Talk about Patches and attention at the Imaging In Paris Seminar - [[Slides]](09_02_2023_Patches_and_attention_for_image_editing.pdf)
 - 02/23 - Talk about Patches at GREYC lab - [[Slides]](02_02_2023_Patches_and_attention_for_image_editing.pdf)
 - 06/22 - I joined Adobe for a summer internship
 
