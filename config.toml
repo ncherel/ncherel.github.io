@@ -1,9 +1,11 @@
-baseURL = "http://perso.telecom-paristech.fr/nicherel"
+baseURL = "https://ncherel.github.io"
 languageCode = "en-us"
 title = "Nicolas Cherel"
 theme = "researcher"
 
 disableKinds = ["taxonomy", "term"]
+
+enableRobotsTXT = true
 
 [markup]
   [markup.goldmark]
@@ -17,3 +19,10 @@ disableKinds = ["taxonomy", "term"]
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Arial"
     fontSize = 12
+
+[sitemap]
+  changeFreq = ''
+  disable = false
+  filename = "sitemap.xml"
+  priority = -1
+
