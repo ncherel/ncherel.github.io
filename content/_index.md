@@ -34,28 +34,28 @@ Email: [firstname].[lastname]@outlook.com
 ## Publications
 
 <div style="display: flow-root">
-{{% figure class="float-left" src="video_inpainting.jpg" width="90" %}}
+{{% figure class="float-left" src="video_inpainting.jpg" width="90" height="85" %}}
 **Infusion: Internal Diffusion for Video Inpainting** - 2023 (*Preprint*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
 [[Preprint]](https://arxiv.org/abs/2311.01090) [[Website]](https://infusion.telecom-paris.fr) [[Code]](https://github.com/ncherel/infusion)
 </div>
 
 <div style="display: flow-root">
-{{% figure class="float-left"  src="inpainting.jpg" width="90" %}}
+{{% figure class="float-left"  src="inpainting.jpg" width="90" height="82" %}}
 **Diffusion-based image inpainting with internal learning** - 2024 (*EUSIPCO*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
 [[Preprint]](https://arxiv.org/abs/2406.04206) [[Code]](https://github.com/ncherel/inpaint-diff-mat)
 </div>
 
 <div style="display: flow-root">
-{{% figure class="float-left" src="psal.jpg" width="90" %}}
+{{% figure class="float-left" src="psal.jpg" width="90" height="81" %}}
 **Patch-Based Stochastic Attention for Image Editing** - 2023 (*CVIU*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002461) [[Preprint]](https://arxiv.org/abs/2202.03163) [[Code]](https://github.com/ncherel/psal)
 </div>
 
 <div style="display: flow-root">
-{{% figure class="float-left" src="psin.jpg" width="90" %}}
+{{% figure class="float-left" src="psin.jpg" width="90" height="57" %}}
 **A Patch-Based Algorithm for Diverse and High Fidelity Single Image Generation** - 2022 (*ICIP*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
 [[Project]](https://psin.telecom-paris.fr) [[Preprint]](https://hal.science/hal-03822204/) [[Paper]](https://ieeexplore.ieee.org/document/9897913) [[Code]](https://github.com/ncherel/psin)
