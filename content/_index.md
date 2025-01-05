@@ -35,7 +35,7 @@ Email: [firstname].[lastname]@outlook.com
 
 <div style="display: flow-root">
 {{% figure class="float-left" src="video_inpainting.jpg" width="90" height="85" %}}
-**Infusion: Internal Diffusion for Video Inpainting** - 2023 (*Preprint*)  
+**Infusion: Internal Diffusion for Video Inpainting** - 2023 (*to appear in Eurographics*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
 [[Preprint]](https://arxiv.org/abs/2311.01090) [[Website]](https://infusion.telecom-paris.fr) [[Code]](https://github.com/ncherel/infusion)
 </div>
