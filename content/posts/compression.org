@@ -1,0 +1,56 @@
+#+DATE: 2025-04-10
+#+TITLE: Should you compress your image dataset? No.
+#+DRAFT: false
+
+* Should you compress your image dataset? No.
+
+With new image formats such as [[https://en.wikipedia.org/wiki/AVIF][AVIF]] (based on AV1), is it worth compressing
+your images for neural network training to save on disk space? Short answer is no.
+
+AVIF is gaining support across many different softwares and libraries, offering significant disk space savings
+compared to JPEG (see below).
+At the same time, image datasets are getting larger and larger, and it could be useful
+to compress them with smarter algorithms to reduce their size. However, complex compression
+requires more operations for decoding and may slow down the training loop.
+
+#+HTML: <figure>
+#+HTML: <img src="kimono.jpg" style="display:inline-block;" width=40% alt="JPEG image"/>
+#+HTML: <img src="kimono.avif" width=40% style="display:inline-block;" alt="AVIF image"/>
+#+HTML: <figcaption>Left: JPEG (253kB), right: AVIF (83kB) - Momiji Jinzamomi and Kaede Fujisaki (CC-BY-SA 4.0)</figcaption>
+#+HTML: </figure>
+
+
+**What's the trade-off between image size and decoding time?**
+
+To answer this question, I compared the decoding times from disk to tensor of different algorithms.
+In addition to different PNG settings, I also tested AVIF available to PyTorch through the [[https://github.com/pytorch-labs/torchvision-extra-decoders][torchvision-extra-decoders]] package.
+
+Using the [[https://data.vision.ee.ethz.ch/cvl/DIV2K/][DIV2K]] validation set, which is composed of 100 high-resolution images (~2000x1000),
+I measured the average decoding time and file size of several lossless compression algorithms.
+
+The compression algorithms compared are:
+- PNG with compression level 9 (maximum compression)
+- PNG with compression level 6 (default compression)
+- PNG with compression level 0 (no compression)
+- AVIF lossless (libaom-av1)
+- [[https://zarr.dev/][ZARR]], a library for tensor storage (some compression, default parameters)
+
+Experiments are run on my laptop (4 CPU cores, NVMe M.2) and may not represent performance
+in a cluster environment with more CPUs and shared storage.
+
+#+ATTR_HTML: :title File size as a function of decoding time :width 80% :alt File size as a function of decoding time
+[[compression.png]]
+
+| Compression | decoding time (s) | file size (MB) |
+|-------------+-------------------+----------------|
+| PNG-9       |              3.91 |           4.24 |
+| PNG-6       |              3.67 |           4.29 |
+| PNG-0       |              2.11 |           8.12 |
+| AVIF        |             17.40 |           3.71 |
+| ZARR        |              1.03 |           7.51 |
+
+While AVIF offers better compression than PNG, its decoding process is much slower.
+**AVIF is too slow for use in a training loop** but may be useful for long-term storage or distributing datasets.
+Uncompressed images (PNG-0) or direct tensor storage (ZARR) produce larger files but are quicker to load into memory.
+
+

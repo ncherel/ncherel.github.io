@@ -11,14 +11,20 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
 
 [params]
   author = "Nicolas Cherel"
   description = "Personal website of Nicolas Cherel"
+  math = true
 
-  [params.style]  # appearance options (can be omitted)
-    fontFamily = "Arial"
-    fontSize = 12
+[params.style]  # appearance options (can be omitted)
+  fontFamily = "Arial"
+  fontSize = 12
 
 [sitemap]
   changeFreq = ''

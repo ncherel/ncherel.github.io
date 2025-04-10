@@ -10,7 +10,8 @@ title = "Nicolas Cherel"
 
 ## About Me
 
-I'm currently unemployed and looking for research / postdoc positions in image / videos generation or editing.
+I'm currently looking for research / engineer position.
+
 I completed my PhD at Télécom Paris (Institut Polytechnique de Paris) under the supervision of Alasdair Newson, Yann Gousseau, and Andrés Almansa. My research interests are video / image editing, data generation, deep learning, and computer vision.
 Before that, I worked at [Gleamer](http://www.gleamer.ai) on bone fracture detection in x-ray images.
 I graduated from Télécom Paris, and obtained the "Mathématiques, Vision, Apprentissage" (MVA) Master's degree from ENS Paris-Saclay. 
@@ -19,17 +20,21 @@ Email: [firstname].[lastname]@outlook.com
 [GitHub](https://github.com/ncherel)
 [Resume](resume.pdf)
 
+
 ## News
 
+- 02/25 - Our paper Infusion was accepted at Eurographics. See you in London
 - 10/24 - Joining Disney Research|Studios in Zurich for a short research stay
 - 08/24 - I will present our work on internal learning for image inpainting at EUSIPCO 2024 in Lyon
 - 04/24 - Talk about diffusion models at the Imaging In Paris Seminar [[Slides]](https://partage.imt.fr/index.php/s/YKbHp64Tnye5Erc)
 - 03/24 - Thesis successfully defended! - [[Manuscript]](https://theses.hal.science/tel-04573417) - [[Slides]](https://partage.imt.fr/index.php/s/92byZy8PrMxMGEX)
 - 02/24 - Manucript submitted, PhD defense in March
 - 06/23 - Talk about diffusion models at EIDOSLAB from Torino - [[Slides]](06_06_2023_diffusion_models.pdf)
-- 02/23 - Talk about Patches and attention at the Imaging In Paris Seminar - [[Slides]](09_02_2023_Patches_and_attention_for_image_editing.pdf)
-- 02/23 - Talk about Patches at GREYC lab - [[Slides]](02_02_2023_Patches_and_attention_for_image_editing.pdf)
-- 06/22 - I joined Adobe for a summer internship
+
+## [Last posts](posts)
+
+- [Should you compress your image dataset? No.](posts/compression)
+
 
 ## Publications
 
@@ -64,8 +69,5 @@ Email: [firstname].[lastname]@outlook.com
 **Assessment of an AI aid in detection of adult appendicular skeletal fractures by emergency physicians and radiologists: a multicenter cross-sectional diagnostic study** - 2021 (*Radiology*)  
 L. Duron, A. Ducarouge, A. Gillibert, J. Lainé, C. Allouche, <ins>N. Cherel</ins>, Z. Zhang, N. Nitche, E. Lacave, A. Pourchot, A. Felter, L. Lassalle, N.-E. Regnard, A. Feydy  
 [[Paper]](https://pubs.rsna.org/doi/full/10.1148/radiol.2021203886)
-
-
-
 
 
