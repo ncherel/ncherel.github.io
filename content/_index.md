@@ -10,9 +10,10 @@ title = "Nicolas Cherel"
 
 ## About Me
 
-I'm currently looking for research / engineer position.
+I'm working as a research engineer at Disney in Zurich.
 
-I completed my PhD at Télécom Paris (Institut Polytechnique de Paris) under the supervision of Alasdair Newson, Yann Gousseau, and Andrés Almansa. My research interests are video / image editing, data generation, deep learning, and computer vision.
+I completed my PhD at Télécom Paris (Institut Polytechnique de Paris) under the supervision of Alasdair Newson, Yann Gousseau, and Andrés Almansa. My PhD was about [video inpainting](https://infusion.telecom-paris.fr) (removing objects in videos) and I am more generally interested in image and video editing, especially ill-posed inverse problems using generative models.
+
 Before that, I worked at [Gleamer](http://www.gleamer.ai) on bone fracture detection in x-ray images.
 I graduated from Télécom Paris, and obtained the "Mathématiques, Vision, Apprentissage" (MVA) Master's degree from ENS Paris-Saclay. 
 
@@ -23,11 +24,12 @@ Email: [firstname].[lastname]@outlook.com
 
 ## News
 
+- 05/25 - Joining Disney in Zurich (again) as a Research Engineer
 - 02/25 - Our paper Infusion was accepted at Eurographics. See you in London
 - 10/24 - Joining Disney Research|Studios in Zurich for a short research stay
 - 08/24 - I will present our work on internal learning for image inpainting at EUSIPCO 2024 in Lyon
-- 04/24 - Talk about diffusion models at the Imaging In Paris Seminar [[Slides]](https://partage.imt.fr/index.php/s/YKbHp64Tnye5Erc)
-- 03/24 - Thesis successfully defended! - [[Manuscript]](https://theses.hal.science/tel-04573417) - [[Slides]](https://partage.imt.fr/index.php/s/92byZy8PrMxMGEX)
+- 04/24 - Talk about diffusion models at the Imaging In Paris Seminar [[~~Slides~~]](https://partage.imt.fr/index.php/s/YKbHp64Tnye5Erc)
+- 03/24 - Thesis successfully defended! - [[Manuscript]](https://theses.hal.science/tel-04573417) - [[~~Slides~~]](https://partage.imt.fr/index.php/s/92byZy8PrMxMGEX)
 - 02/24 - Manucript submitted, PhD defense in March
 - 06/23 - Talk about diffusion models at EIDOSLAB from Torino - [[Slides]](06_06_2023_diffusion_models.pdf)
 
@@ -40,7 +42,7 @@ Email: [firstname].[lastname]@outlook.com
 
 <div style="display: flow-root">
 {{% figure class="float-left" src="video_inpainting.jpg" width="90" height="85" %}}
-**Infusion: Internal Diffusion for Video Inpainting** - 2023 (*to appear in Eurographics*)  
+**Infusion: Internal Diffusion for Video Inpainting** - 2023 (*Eurographics*)  
 <ins>N. Cherel</ins>, A. Almansa, Y. Gousseau, A. Newson  
 [[Preprint]](https://arxiv.org/abs/2311.01090) [[Website]](https://infusion.telecom-paris.fr) [[Code]](https://github.com/ncherel/infusion)
 </div>
