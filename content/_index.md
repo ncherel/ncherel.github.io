@@ -28,8 +28,8 @@ Email: [firstname].[lastname]@outlook.com
 - 02/25 - Our paper Infusion was accepted at Eurographics. See you in London
 - 10/24 - Joining Disney Research|Studios in Zurich for a short research stay
 - 08/24 - I will present our work on internal learning for image inpainting at EUSIPCO 2024 in Lyon
-- 04/24 - Talk about diffusion models at the Imaging In Paris Seminar [[~~Slides~~]](https://partage.imt.fr/index.php/s/YKbHp64Tnye5Erc)
-- 03/24 - Thesis successfully defended! - [[Manuscript]](https://theses.hal.science/tel-04573417) - [[~~Slides~~]](https://partage.imt.fr/index.php/s/92byZy8PrMxMGEX)
+- 04/24 - Talk about diffusion models at the Imaging In Paris Seminar [[Slides]](https://drive.google.com/file/d/1HDnG0df29buU3FCYMIVjF6MtXt5sBWpX/view?usp=sharing)
+- 03/24 - Thesis successfully defended! - [[Manuscript]](https://theses.hal.science/tel-04573417) - [[Slides]](https://drive.google.com/file/d/1di4O7ur4_y9q5sm3XVQg2JP1PnjGgusa/view?usp=sharing)
 - 02/24 - Manucript submitted, PhD defense in March
 - 06/23 - Talk about diffusion models at EIDOSLAB from Torino - [[Slides]](06_06_2023_diffusion_models.pdf)
 
