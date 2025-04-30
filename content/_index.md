@@ -25,6 +25,7 @@ Email: [firstname].[lastname]@outlook.com
 ## News
 
 - 05/25 - Joining Disney in Zurich (again) as a Research Engineer
+- 04/25 - Presentation at ISIR (Sorbonne Université) of Infusion [[Slides]](https://drive.google.com/file/d/1qZamm1gMp56ieyXttTAwtra0o613O8qP/view?usp=sharing)
 - 02/25 - Our paper Infusion was accepted at Eurographics. See you in London
 - 10/24 - Joining Disney Research|Studios in Zurich for a short research stay
 - 08/24 - I will present our work on internal learning for image inpainting at EUSIPCO 2024 in Lyon
