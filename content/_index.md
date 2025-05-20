@@ -26,13 +26,15 @@ Email: [firstname].[lastname]@outlook.com
 
 - 05/25 - Joining Disney in Zurich (again) as a Research Engineer
 - 04/25 - Presentation at ISIR (Sorbonne Université) of Infusion [[Slides]](https://drive.google.com/file/d/1qZamm1gMp56ieyXttTAwtra0o613O8qP/view?usp=sharing)
-- 02/25 - Our paper Infusion was accepted at Eurographics. See you in London
+- 02/25 - Our paper Infusion was accepted at Eurographics. See you in London [[Slides]](https://drive.google.com/file/d/1AL2df0_zZBRDSeWbInTCs4zqeh4QlrpG/view?usp=drive_link)
 - 10/24 - Joining Disney Research|Studios in Zurich for a short research stay
 - 08/24 - I will present our work on internal learning for image inpainting at EUSIPCO 2024 in Lyon
 - 04/24 - Talk about diffusion models at the Imaging In Paris Seminar [[Slides]](https://drive.google.com/file/d/1HDnG0df29buU3FCYMIVjF6MtXt5sBWpX/view?usp=sharing)
 - 03/24 - Thesis successfully defended! - [[Manuscript]](https://theses.hal.science/tel-04573417) - [[Slides]](https://drive.google.com/file/d/1di4O7ur4_y9q5sm3XVQg2JP1PnjGgusa/view?usp=sharing)
 - 02/24 - Manucript submitted, PhD defense in March
 - 06/23 - Talk about diffusion models at EIDOSLAB from Torino - [[Slides]](06_06_2023_diffusion_models.pdf)
+
+Note for presentations: videos are embedded in PDF and play in [Okular](https://okular.kde.org). Contact me if you have issues.
 
 ## [Last posts](posts)
 
